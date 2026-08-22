@@ -1,2 +1,25 @@
 # St. Thomas Duct Cleaning
-HVAC services in Ontario.
+
+> St. Thomas Duct Cleaning is a local HVAC company serving St. Thomas, Elgin, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (548) 457-2400  |  Email: contact@stthomasductcleaning.ca  |  Website: https://stthomasductcleaning.ca
+
+## Key pages
+
+- [Home](https://stthomasductcleaning.ca/): St. Thomas Duct Cleaning homepage with service overview and FAQ
+- [About](https://stthomasductcleaning.ca/about/): About the company and service area
+- [Contact](https://stthomasductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://stthomasductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in St. Thomas, Ontario
+- [Dryer Vent Cleaning](https://stthomasductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in St. Thomas, Ontario
+- [Furnace & AC Cleaning](https://stthomasductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in St. Thomas, Ontario
+- [HRV & Ventilation Cleaning](https://stthomasductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in St. Thomas, Ontario
+- [Duct Sanitizing & Deodorizing](https://stthomasductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in St. Thomas, Ontario
+- [Duct Sealing & Repair](https://stthomasductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in St. Thomas, Ontario
+- [Commercial Duct Cleaning](https://stthomasductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in St. Thomas, Ontario
+
+## FAQ
+
+Common questions about HVAC service in St. Thomas are answered on the homepage.
